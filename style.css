@@ -1,0 +1,13 @@
+.cc {
+    height: 40vh;
+}
+
+.home-score {
+    height: 6rem;
+    font-size: 4rem;
+}
+
+.guest-score {
+    height: 6rem;
+    font-size: 4rem;
+}
